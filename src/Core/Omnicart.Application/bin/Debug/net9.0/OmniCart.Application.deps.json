@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "OmniCart.Application/1.0.0": {
+      "Omnicart.Application/1.0.0": {
         "dependencies": {
           "FluentValidation.DependencyInjectionExtensions": "11.11.0",
           "MediatR": "12.4.1",
@@ -15,7 +15,7 @@
           "OmniCart.Domain": "1.0.0"
         },
         "runtime": {
-          "OmniCart.Application.dll": {}
+          "Omnicart.Application.dll": {}
         }
       },
       "FluentValidation/11.11.0": {
@@ -181,7 +181,7 @@
     }
   },
   "libraries": {
-    "OmniCart.Application/1.0.0": {
+    "Omnicart.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

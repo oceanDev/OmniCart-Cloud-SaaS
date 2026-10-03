@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SZ6ysY2x++o=",
+  "dgSpecHash": "6axFd5JmQOU=",
   "success": true,
-  "projectFilePath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj",
+  "projectFilePath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JEWEL\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\JEWEL\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

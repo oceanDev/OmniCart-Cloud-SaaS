@@ -146,3 +146,4 @@ E:\OmniCart Cloud\src\Tests\OmniCart.UnitTests\bin\Debug\net9.0\Microsoft.Identi
 E:\OmniCart Cloud\src\Tests\OmniCart.UnitTests\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\OmniCart Cloud\src\Tests\OmniCart.UnitTests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 E:\OmniCart Cloud\src\Tests\OmniCart.UnitTests\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OmniCart Cloud\src\Tests\OmniCart.UnitTests\obj\Debug\net9.0\OmniCart.UnitTests.sourcelink.json

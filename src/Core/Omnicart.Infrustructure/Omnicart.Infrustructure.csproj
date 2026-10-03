@@ -2,7 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Omnicart.Domain\OmniCart.Domain.csproj" />
-    <ProjectReference Include="..\Omnicart.Application\OmniCart.Application.csproj" />
+    <ProjectReference Include="..\Omnicart.Application\Omnicart.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

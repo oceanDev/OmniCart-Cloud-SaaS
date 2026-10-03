@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {}
+    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {}
   },
   "projects": {
-    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
+    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj",
-        "projectName": "OmniCart.Application",
-        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj",
+        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj",
+        "projectName": "Omnicart.Application",
+        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj",
         "packagesPath": "C:\\Users\\JEWEL\\.nuget\\packages\\",
         "outputPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\obj\\",
         "projectStyle": "PackageReference",

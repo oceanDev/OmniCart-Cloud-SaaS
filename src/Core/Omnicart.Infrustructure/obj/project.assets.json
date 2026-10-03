@@ -1095,7 +1095,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "OmniCart.Application/1.0.0": {
+      "Omnicart.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -1106,10 +1106,10 @@
           "OmniCart.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/OmniCart.Application.dll": {}
+          "bin/placeholder/Omnicart.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OmniCart.Application.dll": {}
+          "bin/placeholder/Omnicart.Application.dll": {}
         }
       },
       "OmniCart.Domain/1.0.0": {
@@ -3261,10 +3261,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "OmniCart.Application/1.0.0": {
+    "Omnicart.Application/1.0.0": {
       "type": "project",
-      "path": "../Omnicart.Application/OmniCart.Application.csproj",
-      "msbuildProject": "../Omnicart.Application/OmniCart.Application.csproj"
+      "path": "../Omnicart.Application/Omnicart.Application.csproj",
+      "msbuildProject": "../Omnicart.Application/Omnicart.Application.csproj"
     },
     "OmniCart.Domain/1.0.0": {
       "type": "project",
@@ -3278,8 +3278,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.2",
       "Microsoft.Extensions.Configuration.Abstractions >= 9.0.2",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 9.0.3",
-      "OmniCart.Application >= 1.0.0",
       "OmniCart.Domain >= 1.0.0",
+      "Omnicart.Application >= 1.0.0",
       "Pgvector.EntityFrameworkCore >= 0.2.1",
       "System.IdentityModel.Tokens.Jwt >= 8.4.0"
     ]
@@ -3291,9 +3291,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj",
-      "projectName": "OmniCart.Infrustructure",
-      "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj",
+      "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj",
+      "projectName": "Omnicart.Infrustructure",
+      "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj",
       "packagesPath": "C:\\Users\\JEWEL\\.nuget\\packages\\",
       "outputPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\obj\\",
       "projectStyle": "PackageReference",
@@ -3317,8 +3317,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
-              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj"
+            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
+              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj"
             },
             "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\OmniCart.Domain.csproj": {
               "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\OmniCart.Domain.csproj"

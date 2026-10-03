@@ -6,19 +6,19 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "OmniCart.Infrustructure/1.0.0": {
+      "Omnicart.Infrustructure/1.0.0": {
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.2",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3",
-          "OmniCart.Application": "1.0.0",
           "OmniCart.Domain": "1.0.0",
+          "Omnicart.Application": "1.0.0",
           "Pgvector.EntityFrameworkCore": "0.2.1",
           "System.IdentityModel.Tokens.Jwt": "8.4.0"
         },
         "runtime": {
-          "OmniCart.Infrustructure.dll": {}
+          "Omnicart.Infrustructure.dll": {}
         }
       },
       "BCrypt.Net-Next/4.0.3": {
@@ -743,7 +743,7 @@
         }
       },
       "System.Threading.Channels/7.0.0": {},
-      "OmniCart.Application/1.0.0": {
+      "Omnicart.Application/1.0.0": {
         "dependencies": {
           "FluentValidation.DependencyInjectionExtensions": "11.11.0",
           "MediatR": "12.4.1",
@@ -752,7 +752,7 @@
           "OmniCart.Domain": "1.0.0"
         },
         "runtime": {
-          "OmniCart.Application.dll": {
+          "Omnicart.Application.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -769,7 +769,7 @@
     }
   },
   "libraries": {
-    "OmniCart.Infrustructure/1.0.0": {
+    "Omnicart.Infrustructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1152,7 +1152,7 @@
       "path": "system.threading.channels/7.0.0",
       "hashPath": "system.threading.channels.7.0.0.nupkg.sha512"
     },
-    "OmniCart.Application/1.0.0": {
+    "Omnicart.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

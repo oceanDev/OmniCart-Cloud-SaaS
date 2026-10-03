@@ -4,12 +4,12 @@
     "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\OmniCart.API.csproj": {}
   },
   "projects": {
-    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
+    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj",
-        "projectName": "OmniCart.Application",
-        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj",
+        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj",
+        "projectName": "Omnicart.Application",
+        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj",
         "packagesPath": "C:\\Users\\JEWEL\\.nuget\\packages\\",
         "outputPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -158,12 +158,12 @@
         }
       }
     },
-    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj": {
+    "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj",
-        "projectName": "OmniCart.Infrustructure",
-        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj",
+        "projectUniqueName": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj",
+        "projectName": "Omnicart.Infrustructure",
+        "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj",
         "packagesPath": "C:\\Users\\JEWEL\\.nuget\\packages\\",
         "outputPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -187,8 +187,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
-                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj"
+              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
+                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj"
               },
               "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\OmniCart.Domain.csproj": {
                 "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\OmniCart.Domain.csproj"
@@ -288,11 +288,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
-                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj"
+              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
+                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj"
               },
-              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj": {
-                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj"
+              "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj": {
+                "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj"
               }
             }
           }

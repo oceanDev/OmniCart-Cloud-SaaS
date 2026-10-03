@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OmniCart.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+993a8c028f6e1043faed4bed616bf2597692dd63")]
 [assembly: System.Reflection.AssemblyProductAttribute("OmniCart.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OmniCart.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

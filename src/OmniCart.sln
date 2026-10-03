@@ -1,15 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{FEDD1C5B-E40C-4ED0-ADE5-6209376203D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicart.Domain", "Core\OmniCart.Domain\Omnicart.Domain.csproj", "{E10E6793-14BC-4E91-BC02-4257F574F731}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicart.Domain", "Core\Omnicart.Domain\OmniCart.Domain.csproj", "{E10E6793-14BC-4E91-BC02-4257F574F731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniCart.Application", "Core\OmniCart.Application\OmniCart.Application.csproj", "{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniCart.Application", "Core\Omnicart.Application\Omnicart.Application.csproj", "{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniCart.Infrustructure", "Core\OmniCart.Infrustructure\OmniCart.Infrustructure.csproj", "{AFCC7574-F298-4E0A-890B-833B87A57B39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmniCart.Infrustructure", "Core\Omnicart.Infrustructure\Omnicart.Infrustructure.csproj", "{AFCC7574-F298-4E0A-890B-833B87A57B39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{F5157CC8-C87E-4678-92F8-9CBC9671DD9D}"
 EndProject

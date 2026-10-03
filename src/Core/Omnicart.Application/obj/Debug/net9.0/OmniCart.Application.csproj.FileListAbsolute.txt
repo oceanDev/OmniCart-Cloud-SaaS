@@ -8,8 +8,9 @@ E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\OmniCart.Applic
 E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\OmniCart.Application.pdb
 E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\Omnicart.Domain.dll
 E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\Omnicart.Domain.pdb
-E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.7137F268.Up2Date
 E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.dll
 E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\refint\OmniCart.Application.dll
 E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.pdb
 E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\ref\OmniCart.Application.dll
+E:\OmniCart Cloud\src\Core\Omnicart.Application\obj\Debug\net9.0\Omnicart.Application.sourcelink.json
+E:\OmniCart Cloud\src\Core\Omnicart.Application\obj\Debug\net9.0\Omnicart.6F50F644.Up2Date

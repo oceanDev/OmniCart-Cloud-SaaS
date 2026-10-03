@@ -9,3 +9,4 @@ E:\OmniCart Cloud\src\Core\OmniCart.Domain\obj\Debug\net9.0\Omnicart.Domain.dll
 E:\OmniCart Cloud\src\Core\OmniCart.Domain\obj\Debug\net9.0\refint\Omnicart.Domain.dll
 E:\OmniCart Cloud\src\Core\OmniCart.Domain\obj\Debug\net9.0\Omnicart.Domain.pdb
 E:\OmniCart Cloud\src\Core\OmniCart.Domain\obj\Debug\net9.0\ref\Omnicart.Domain.dll
+E:\OmniCart Cloud\src\Core\Omnicart.Domain\obj\Debug\net9.0\OmniCart.Domain.sourcelink.json

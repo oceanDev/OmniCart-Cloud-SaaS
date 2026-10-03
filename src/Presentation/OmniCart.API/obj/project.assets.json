@@ -1247,7 +1247,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "OmniCart.Application/1.0.0": {
+      "Omnicart.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
@@ -1258,10 +1258,10 @@
           "OmniCart.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/OmniCart.Application.dll": {}
+          "bin/placeholder/Omnicart.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OmniCart.Application.dll": {}
+          "bin/placeholder/Omnicart.Application.dll": {}
         }
       },
       "OmniCart.Domain/1.0.0": {
@@ -1274,23 +1274,23 @@
           "bin/placeholder/OmniCart.Domain.dll": {}
         }
       },
-      "OmniCart.Infrustructure/1.0.0": {
+      "Omnicart.Infrustructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "BCrypt.Net-Next": "4.0.3",
           "Microsoft.Extensions.Configuration.Abstractions": "9.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "9.0.3",
-          "OmniCart.Application": "1.0.0",
           "OmniCart.Domain": "1.0.0",
+          "Omnicart.Application": "1.0.0",
           "Pgvector.EntityFrameworkCore": "0.2.1",
           "System.IdentityModel.Tokens.Jwt": "8.4.0"
         },
         "compile": {
-          "bin/placeholder/OmniCart.Infrustructure.dll": {}
+          "bin/placeholder/Omnicart.Infrustructure.dll": {}
         },
         "runtime": {
-          "bin/placeholder/OmniCart.Infrustructure.dll": {}
+          "bin/placeholder/Omnicart.Infrustructure.dll": {}
         }
       }
     }
@@ -3833,20 +3833,20 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "OmniCart.Application/1.0.0": {
+    "Omnicart.Application/1.0.0": {
       "type": "project",
-      "path": "../../Core/Omnicart.Application/OmniCart.Application.csproj",
-      "msbuildProject": "../../Core/Omnicart.Application/OmniCart.Application.csproj"
+      "path": "../../Core/Omnicart.Application/Omnicart.Application.csproj",
+      "msbuildProject": "../../Core/Omnicart.Application/Omnicart.Application.csproj"
     },
     "OmniCart.Domain/1.0.0": {
       "type": "project",
       "path": "../../Core/Omnicart.Domain/OmniCart.Domain.csproj",
       "msbuildProject": "../../Core/Omnicart.Domain/OmniCart.Domain.csproj"
     },
-    "OmniCart.Infrustructure/1.0.0": {
+    "Omnicart.Infrustructure/1.0.0": {
       "type": "project",
-      "path": "../../Core/Omnicart.Infrustructure/OmniCart.Infrustructure.csproj",
-      "msbuildProject": "../../Core/Omnicart.Infrustructure/OmniCart.Infrustructure.csproj"
+      "path": "../../Core/Omnicart.Infrustructure/Omnicart.Infrustructure.csproj",
+      "msbuildProject": "../../Core/Omnicart.Infrustructure/Omnicart.Infrustructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3854,8 +3854,8 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.2",
       "Microsoft.AspNetCore.OpenApi >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
-      "OmniCart.Application >= 1.0.0",
-      "OmniCart.Infrustructure >= 1.0.0",
+      "Omnicart.Application >= 1.0.0",
+      "Omnicart.Infrustructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -3892,11 +3892,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj": {
-              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj"
+            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj": {
+              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj"
             },
-            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj": {
-              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\OmniCart.Infrustructure.csproj"
+            "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj": {
+              "projectPath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Omnicart.Infrustructure.csproj"
             }
           }
         }

@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\Omnicart.Application\OmniCart.Application.csproj" />
-    <ProjectReference Include="..\..\Core\Omnicart.Infrustructure\OmniCart.Infrustructure.csproj" />
+    <ProjectReference Include="..\..\Core\Omnicart.Application\Omnicart.Application.csproj" />
+    <ProjectReference Include="..\..\Core\Omnicart.Infrustructure\Omnicart.Infrustructure.csproj" />
   </ItemGroup>
 
 </Project>

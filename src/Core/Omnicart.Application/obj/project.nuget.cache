@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHjbPLQKm1M=",
+  "dgSpecHash": "AOD5rvCa4aM=",
   "success": true,
-  "projectFilePath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\OmniCart.Application.csproj",
+  "projectFilePath": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Omnicart.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JEWEL\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\JEWEL\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
