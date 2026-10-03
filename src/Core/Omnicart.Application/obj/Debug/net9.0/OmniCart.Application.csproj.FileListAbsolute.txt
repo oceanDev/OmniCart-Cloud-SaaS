@@ -1,0 +1,15 @@
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.csproj.AssemblyReference.cache
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.AssemblyInfoInputs.cache
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.AssemblyInfo.cs
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.csproj.CoreCompileInputs.cache
+E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\OmniCart.Application.deps.json
+E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\OmniCart.Application.dll
+E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\OmniCart.Application.pdb
+E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\Omnicart.Domain.dll
+E:\OmniCart Cloud\src\Core\OmniCart.Application\bin\Debug\net9.0\Omnicart.Domain.pdb
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.7137F268.Up2Date
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.dll
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\refint\OmniCart.Application.dll
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\OmniCart.Application.pdb
+E:\OmniCart Cloud\src\Core\OmniCart.Application\obj\Debug\net9.0\ref\OmniCart.Application.dll

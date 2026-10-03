@@ -1,0 +1,57 @@
+name: OmniCart Cloud CI/CD Pipeline
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  # -------------------------------------------------------------
+  # Job 1: Build & Automated Tests (CI)
+  # -------------------------------------------------------------
+  build-and-test:
+    name: Build & Run Unit Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 1. Checkout Source Code
+        uses: actions/checkout@v4
+
+      - name: 2. Setup .NET 9 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: 3. Restore Dependencies
+        run: dotnet restore src/OmniCart.sln
+
+      - name: 4. Build Solution
+        run: dotnet build src/OmniCart.sln --no-restore --configuration Release
+
+      - name: 5. Execute Automated Tests
+        run: dotnet test src/OmniCart.sln --no-build --configuration Release --verbosity normal
+
+  # -------------------------------------------------------------
+  # Job 2: Build Docker Image (CD Verification)
+  # -------------------------------------------------------------
+  
+  build-docker:
+    name: Build Docker Container
+    runs-on: ubuntu-latest
+    needs: build-and-test # Made docker image if test pass
+
+    steps:
+      - name: 1. Checkout Code
+        uses: actions/checkout@v4
+
+      - name: 2. Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: 3. Build Docker Image (Test)
+        uses: docker/build-push-action@v5
+        with:
+          context: .
+          file: ./Dockerfile
+          push: false
+          tags: omnicart-api:latest

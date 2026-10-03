@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OmniCart Cloud\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|e:\\omnicart cloud\\src\\presentation\\omnicart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|solutionrelative:presentation\\omnicart.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|e:\\omnicart cloud\\src\\presentation\\omnicart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|solutionrelative:presentation\\omnicart.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|e:\\omnicart cloud\\src\\presentation\\omnicart.api\\middlewares\\tenantresolutionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|solutionrelative:presentation\\omnicart.api\\middlewares\\tenantresolutionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|e:\\omnicart cloud\\src\\presentation\\omnicart.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|solutionrelative:presentation\\omnicart.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|e:\\omnicart cloud\\src\\presentation\\omnicart.api\\omnicart.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A975B06A-0ED6-4441-89E1-2879119B0B6D}|Presentation\\OmniCart.API\\OmniCart.API.csproj|solutionrelative:presentation\\omnicart.api\\omnicart.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|e:\\omnicart cloud\\src\\core\\omnicart.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|solutionrelative:core\\omnicart.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|e:\\omnicart cloud\\src\\core\\omnicart.infrustructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|solutionrelative:core\\omnicart.infrustructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|e:\\omnicart cloud\\src\\core\\omnicart.infrustructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|solutionrelative:core\\omnicart.infrustructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|e:\\omnicart cloud\\src\\core\\omnicart.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|solutionrelative:core\\omnicart.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|e:\\omnicart cloud\\src\\core\\omnicart.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|solutionrelative:core\\omnicart.application\\common\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|e:\\omnicart cloud\\src\\core\\omnicart.application\\common\\interfaces\\icurrenttenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46CDEE0D-9E8E-4C8B-A1CF-6F2CA1DC91A9}|Core\\OmniCart.Application\\OmniCart.Application.csproj|solutionrelative:core\\omnicart.application\\common\\interfaces\\icurrenttenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\common\\imusthavetenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\common\\imusthavetenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\enums\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\enums\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\enums\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\enums\\discounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\enums\\tenantstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\enums\\tenantstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|e:\\omnicart cloud\\src\\core\\omnicart.domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E10E6793-14BC-4E91-BC02-4257F574F731}|Core\\OmniCart.Domain\\Omnicart.Domain.csproj|solutionrelative:core\\omnicart.domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|e:\\omnicart cloud\\src\\core\\omnicart.infrustructure\\services\\currenttenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFCC7574-F298-4E0A-890B-833B87A57B39}|Core\\OmniCart.Infrustructure\\OmniCart.Infrustructure.csproj|solutionrelative:core\\omnicart.infrustructure\\services\\currenttenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Presentation\\OmniCart.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Presentation\\OmniCart.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T07:33:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OmniCart.API",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\OmniCart.API.csproj",
+              "RelativeDocumentMoniker": "Presentation\\OmniCart.API\\OmniCart.API.csproj",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\OmniCart.API.csproj",
+              "RelativeToolTip": "Presentation\\OmniCart.API\\OmniCart.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-24T07:32:39.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\OmniCart.API\\Program.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Program.cs",
+              "RelativeToolTip": "Presentation\\OmniCart.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T06:34:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenantResolutionMiddleware.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Middlewares\\TenantResolutionMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\OmniCart.API\\Middlewares\\TenantResolutionMiddleware.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\Middlewares\\TenantResolutionMiddleware.cs",
+              "RelativeToolTip": "Presentation\\OmniCart.API\\Middlewares\\TenantResolutionMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T05:24:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\OmniCart.API\\appsettings.json",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Presentation\\OmniCart.API\\appsettings.json",
+              "RelativeToolTip": "Presentation\\OmniCart.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T05:13:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Infrustructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Core\\Omnicart.Infrustructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:05:19.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Application\\Common\\Models\\Result.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Models\\Result.cs",
+              "RelativeToolTip": "Core\\Omnicart.Application\\Common\\Models\\Result.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T06:03:03.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Core\\Omnicart.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:47:05.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:19:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\Order.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:18:49.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\Review.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:12:57.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\ProductVariant.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\ProductVariant.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\ProductVariant.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:11:28.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\ProductImage.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:07:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T05:06:13.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:54:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Entities\\Tenant.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Entities\\Tenant.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T04:44:41.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Infrustructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Core\\Omnicart.Infrustructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywGkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T12:46:35.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CurrentTenantService.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Services\\CurrentTenantService.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Infrustructure\\Services\\CurrentTenantService.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Infrustructure\\Services\\CurrentTenantService.cs",
+              "RelativeToolTip": "Core\\Omnicart.Infrustructure\\Services\\CurrentTenantService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:16:28.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Core\\Omnicart.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:01:20.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DiscountType.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\DiscountType.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Enums\\DiscountType.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\DiscountType.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Enums\\DiscountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:11:28.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:10:52.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:10:11.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Enums\\SubscriptionPlan.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\SubscriptionPlan.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Enums\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:09:16.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TenantStatus.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\TenantStatus.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Enums\\TenantStatus.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Enums\\TenantStatus.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Enums\\TenantStatus.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvwoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:07:27.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMustHaveTenant.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Common\\IMustHaveTenant.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Common\\IMustHaveTenant.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Common\\IMustHaveTenant.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Common\\IMustHaveTenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:06:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Omnicart.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:04:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICurrentTenantService.cs",
+              "DocumentMoniker": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Interfaces\\ICurrentTenantService.cs",
+              "RelativeDocumentMoniker": "Core\\Omnicart.Application\\Common\\Interfaces\\ICurrentTenantService.cs",
+              "ToolTip": "E:\\OmniCart Cloud\\src\\Core\\Omnicart.Application\\Common\\Interfaces\\ICurrentTenantService.cs",
+              "RelativeToolTip": "Core\\Omnicart.Application\\Common\\Interfaces\\ICurrentTenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T07:57:32.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
