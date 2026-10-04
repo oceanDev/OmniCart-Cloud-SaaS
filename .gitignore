@@ -1,35 +1,24 @@
-# Build results
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-
-# Visual Studio
-.vs/
+## .NET Core
+**/bin/
+**/obj/
+**/.vs/
+**/.vscode/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Visual Studio Code
-.vscode/
+## Logs and temporary files
+*.log
+*.tmp
 
-# Rider
-.idea/
-
-# Dotnet Core
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Frontend (Node / Nuxt / React)
-node_modules/
-dist/
-.output/
-.nuxt/
+## Frontend / Node (for client)
+**/node_modules/
+**/dist/
+**/.output/
+**/.nuxt/
 .env.local
 
-# OS generated files
+## OS Files
 .DS_Store
 Thumbs.db
-ehthumbs.db
