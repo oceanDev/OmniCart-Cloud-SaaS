@@ -35,6 +35,17 @@ public static class DependencyInjection
         services.AddSingleton<IPasswordHasher, PasswordHasher>();
         services.AddScoped<IAuthService, AuthService>();
 
+        // 5. Redis Cache Engine Setup
+
+        services.AddStackExchangeRedisCache(options =>  
+        {
+            options.Configuration = configuration.GetConnectionString("Radis") ?? "localhost:6379";
+            options.InstanceName = "OmniCart_";
+        });
+
+        // 5. Register ICacheService
+        services.AddScoped<ICacheService,CacheService>();
+
         return services;
     }
 }
